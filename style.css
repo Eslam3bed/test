@@ -7,15 +7,15 @@ h1{
   text-align: center;
   margin: 0 auto;
   text-transform: capitalize;
-  color: #FFF;
+  color: #808080;
   font-size: 60px;
 }
 
 .log-in
 {
-  margin: 70px auto;
-  width: 800px;
-  height: 600px;
+  margin: 30px auto;
+  width: 50rem;
+  height: 37.5rem;
   background: #67BE4B;
   position: relative;
   border-radius: 10px;
