@@ -5,4 +5,62 @@ background-color: gray;
 
 h1{
   text-align: center;
+  margin: 0 auto;
+  text-transform: capitalize;
+  color: #FFF;
+  font-size: 60px;
+}
+
+.log-in
+{
+  margin: 70px auto;
+  width: 800px;
+  height: 600px;
+  background: #67BE4B;
+  position: relative;
+  border-radius: 10px;
+}
+
+.log-in form{
+  background:#FFFFFF;
+  width: 400px;
+  height: 300px;
+  margin: 50px auto;
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  box-shadow: 6px 6px 20px #000;
+  border-radius: 10px;
+}
+
+.log-in form .inp
+{
+  display: block;
+  margin: 35px auto;
+  padding: 15px 115px 15px 10px;
+  background: #F2F2F2;
+  border: none;
+}
+
+.log-in form input[type="checkbox"]
+{
+  margin:0 0 20px 55px;
+}
+
+.log-in form .lbl
+{
+  display: inline;
+  color: #a08f8f;
+  text-transform: capitalize;
+}
+
+.log-in form .btn
+{
+  display: block;
+  margin: 0 auto;
+  background: #00B242;
+  color: #FFF;
+  text-transform: capitalize;
+  border: none;
+  padding: 15px 125px;
 }
